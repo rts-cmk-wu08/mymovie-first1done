@@ -1,0 +1,14 @@
+@import "style.css";
+body {
+    background-color: black;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+.now__showingcontainer h2,
+.popular__container h2 {
+    color: #fff;
+}

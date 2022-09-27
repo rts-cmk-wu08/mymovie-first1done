@@ -1,0 +1,50 @@
+.movie__desc,
+.cast__title h3,
+h5,
+.popular__container h2,
+h1,
+.now__showingcontainer h2 {
+    color: #110E47;
+}
+
+.info p span,
+.movie__card a,
+.popular__movie a {
+    color: #000;
+}
+
+.imdb__rating {
+    color: #9C9C9C;
+}
+
+.master__button {
+    border: 1px solid #AAA9B1;
+    color: #AAA9B1;
+}
+
+.slider {
+    background-color: #ccc;
+}
+
+input:checked+.slider {
+    background-color: rgb(52, 52, 52);
+}
+
+input:focus+.slider {
+    box-shadow: 0 0 1px rgb(52, 52, 52);
+}
+
+.slider:before,
+.info__container {
+    background-color: #fff;
+}
+
+.genre {
+    background-color: #DBE3FF;
+    color: #88A4E8;
+}
+
+.info p,
+.movie__overview {
+    color: #9C9C9C;
+}
